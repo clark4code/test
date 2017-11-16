@@ -25,7 +25,7 @@ class Data {
 	COleSafeArray	m_saDataX;
 	std::vector<COleSafeArray>	m_arrDataY;
 };
-
+t
 class OSC {
 public:
 	OSCInfo const&	GetInfo() const {
