@@ -4,7 +4,7 @@ class ChannelInfo {
 	double	m_dbOffset;
 	double	m_dbGain;
 };
-
+ 
 class TriggerInfo {
 	bool	m_bEnable;
 	int		m_nChannel;
